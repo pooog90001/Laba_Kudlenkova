@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Laba .iml" filepath="$PROJECT_DIR$/.idea/modules/Laba .iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Laba_.iml" filepath="$PROJECT_DIR$/.idea/modules/Laba_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Laba__main.iml" filepath="$PROJECT_DIR$/.idea/modules/Laba__main.iml" group="Laba_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Laba__test.iml" filepath="$PROJECT_DIR$/.idea/modules/Laba__test.iml" group="Laba_" />
+    </modules>
+  </component>
+</project>
