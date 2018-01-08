@@ -1,5 +1,7 @@
 package by.mrk.gridlaba.validator;
 
 public interface GridValidator {
-    boolean validateSize(int height, int width);
+    boolean validateGridSize(String height, String width);
+    boolean validateCellValue(String cellValue);
+    String getAndClearErrors();
 }
